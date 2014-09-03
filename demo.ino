@@ -1,4 +1,4 @@
-// Demonstration sketch for four digit, seven segment display with enclosure
+// Demonstration Arduino sketch for four digit, seven segment display with enclosure
 // http://tronixlabs.com/display/led/numeric/four-digit-seven-segment-display-module-and-enclosure/
 
 int latchPin = 13;   // connect to LCK pin
